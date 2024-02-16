@@ -1,0 +1,6 @@
+[submodule "esp-at"]
+	path = esp-at
+	url = https://github.com/espressif/esp-at.git
+[submodule "linkit_sdk"]
+	path = linkit_sdk
+	url = https://github.com/zhcg/linkit_sdk.git
